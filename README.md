@@ -27,7 +27,7 @@ I'm a recent Master's graduate and aspiring Full Stack Developer with a strong f
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwindcss" />
 </p>
 
 ### Backend
