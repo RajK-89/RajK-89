@@ -9,8 +9,8 @@ I'm a recent Master's graduate and aspiring Full Stack Developer with a strong f
 ## About Me
 
 - Recent Master's graduate and aspiring Full Stack Developer
-- Skilled in Java, Spring Boot, React, Node.js, MySQL, and MongoDB
-- Currently learning Docker, Kubernetes, CI/CD, GraphQL, and Tailwind CSS
+- Skilled in Java, Spring Boot, React, Tailwind CSS, Bootstrap, Node.js, MySQL, and MongoDB
+- Currently learning Docker, Kubernetes, CI/CD, GraphQL
 - Interested in Backend Development and Software Engineering
 - Open to Software Developer opportunities
 
@@ -96,7 +96,6 @@ A responsive web application for course registration and profile management.
 - Kubernetes
 - CI/CD
 - GraphQL
-- Tailwind CSS
 
 ---
 
