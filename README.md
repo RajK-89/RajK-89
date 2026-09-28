@@ -9,7 +9,7 @@ I'm a recent Master's graduate and aspiring Full Stack Developer with a strong f
 ## About Me
 
 - Recent Master's graduate and aspiring Full Stack Developer
-- Skilled in Java, Spring Boot, React, Tailwind CSS, Bootstrap, Node.js, MySQL, and MongoDB
+- Skilled in Java, Spring Boot, React, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, and PostgreSQL
 - Currently learning Docker, Kubernetes, CI/CD, GraphQL
 - Interested in Backend Development and Software Engineering
 - Open to Software Developer opportunities
@@ -39,7 +39,7 @@ I'm a recent Master's graduate and aspiring Full Stack Developer with a strong f
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### Tools
